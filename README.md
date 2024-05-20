@@ -3,9 +3,10 @@ The LinkedIn course like an assignment with cucumber
 
 Contents
 
-Java: Automated API Testing with Rest-Assured
-with Angie Jones
-Chapter Video Resource Link
+|Java: Automated API Testing with Rest-Assured| |
+|with Angie Jones|
+-------------------------------------------------
+|Chapter | Video | Resource | Link |
 0 - Introduction 3 - API Setup MAMP https://www.mamp.info/
 
 1 - Getting Started with
