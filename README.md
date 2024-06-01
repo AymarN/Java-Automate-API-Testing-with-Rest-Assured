@@ -34,12 +34,17 @@ Outlines
                                                                                            /Matchers.html#equalTo(T)                                 |
 
 
-
-
-#### Requirements 
+#### Requirements
+This assignment was performed with IntelliJ and also Netbeans.
+I used a professional version of MAMP server to set up the MySQL database.
 
 
 #### Cloning the repository
+
+
+#### Install dependencies
+
+1. The Java JDK version 22 is required and systematically setup with IntelliJ.
 
 
 ### Install dependencies
