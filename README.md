@@ -40,7 +40,7 @@ I used a professional version of MAMP server to set up the MySQL database.
 
 
 #### Cloning the repository
-
+git clone https://github.com/AymarN/Java-Automate-API-Testing-with-Rest-Assured.git
 
 #### Install dependencies
 
