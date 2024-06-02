@@ -16,7 +16,7 @@ Outlines
                                        | API Testing
                                                                                                                                 
 ------------------------------------------------------------------------------------------------------------------------------------|
-                                       | :----:                       | :----:                 |                               ----:|
+                                       
                                        |2 - Rest-Assured Testing      |  Rest Assured          |https://rest-assured.io
                                        |Library                              -------------------------------------------------------|
                                                                       | IntelliJ               |https://www.jetbrains.com/idea/down | 
