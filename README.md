@@ -38,4 +38,3 @@ git clone https://github.com/AymarN/Java-Automate-API-Testing-with-Rest-Assured.
 1. The Java JDK version 22 is required and systematically setup with IntelliJ.
 
 
-### Install dependencies
