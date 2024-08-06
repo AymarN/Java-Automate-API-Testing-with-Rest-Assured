@@ -21,6 +21,21 @@
                                                                                                                        |load/#section=mac                                      |
                                                                         |------------------------------------------------------------------------------------------------------|
                                                                         | Maven Repository                             |  https://mvnrepository.com          <h5>|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|</h5>
+                                     
+    |3-Validating API                     |4-Verifying Fields of        |Hamcrest Matchers                             |https://hamcrest.org/JavaHamcrest/javadoc              |
+                                                                                                                       |/1.3/org/hamcrest/Matchers.html                        |
+    |Responses                            |Response                     |------------------------------------------------------------------------------------------------------|
+                                                                        |Hamcrest NotNullValue()                       |https://hamcrest.org/JavaHamcrest/javadoc/1.3/org/
+                                                                                                                       |hamcrest/Matchers.html#notNullValue()                  | 
+                                                                                                                                                                               |
+                                                                        |------------------------------------------------------------------------------------------------------|
+                                                                        | Hamcrest greaterThan()                       |https://hamcrest.org/JavaHamcrest/javadoc/1.3/org/     |
+                                                                                                                       |hamcrest/Matchers.html#greaterThan(T)                  |  
+                                                                                                                                                                               |          
+                                                                        |------------------------------------------------------------------------------------------------------|
+                                                                        | Hamcrest equalTo()                           |https://hamcrest.org/JavaHamcrest/javadoc/1.3/org/     |
+                                                                        |                                              |hamcrest/Matchers.html#equalTo(T)                      |   
+                                                                                                                                                                                       
 
 
 ### Prerequesites 
