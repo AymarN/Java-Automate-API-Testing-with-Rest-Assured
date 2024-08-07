@@ -1,6 +1,6 @@
 <h5># Java-Automate-API-Testing-with-Rest-Assured</h5>
 <h5>The LinkedIn course like an assignment with cucumber</h5>
-<h5>Outlines</h5>
+<h5>[Handout]</h5>
 <h5>|Java: Automated API Testing with Rest-Assured|</h5>
 
     |with Angie Jones|                    |                             |                                              |                                                       |                                                                                                                         
