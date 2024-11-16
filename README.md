@@ -38,6 +38,8 @@
 ### Prerequesites 
 This assignment was performed with IntelliJ and also Netbeans.
 I used a professional version of MAMP server to set up the MySQL database.
+Download MAMP for windows:
+https://www.mamp.info/en/mamp/windows/
 
 
 #### Cloning the repository
