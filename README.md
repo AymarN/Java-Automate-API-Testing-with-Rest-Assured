@@ -3,7 +3,6 @@
 <h5>[Handout]</h5>
 <h5>|Java: Automated API Testing with Rest-Assured|</h5>
 
- |                |                    |                             |                                              |                                                       |                                                                                                                         
     |Chapter                              |Video                        |Resource                                      | Link                                                  |
                                                                         
     |0 - Introduction                     |3 - API Setup                |MAMP                                          | https://www.mamp.info/                                |
