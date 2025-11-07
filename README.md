@@ -1,9 +1,9 @@
-<h5># Java-Automate-API-Testing-with-Rest-Assured</h5>
-<h5>The LinkedIn course like an assignment with cucumber</h5>
+<h5># How I test APIs with Rest Assured</h5>
+<h5>From my submission on the LinkedIn Course.</h5>
 <h5>[Handout]</h5>
 <h5>|Java: Automated API Testing with Rest-Assured|</h5>
 
-    |with Angie Jones|                    |                             |                                              |                                                       |                                                                                                                         
+ |                |                    |                             |                                              |                                                       |                                                                                                                         
     |Chapter                              |Video                        |Resource                                      | Link                                                  |
                                                                         
     |0 - Introduction                     |3 - API Setup                |MAMP                                          | https://www.mamp.info/                                |
