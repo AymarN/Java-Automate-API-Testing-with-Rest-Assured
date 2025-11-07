@@ -35,7 +35,7 @@
 
 
 ### Prerequesites 
-This assignment was performed with IntelliJ and also Netbeans.
+This assignment was performed with IntelliJ. I may use later on another IDE.
 I used a professional version of MAMP server to set up the MySQL database.
 Download MAMP for windows:
 https://www.mamp.info/en/mamp/windows/
@@ -44,8 +44,9 @@ https://www.mamp.info/en/mamp/windows/
 #### Cloning the repository
 git clone https://github.com/AymarN/Java-Automate-API-Testing-with-Rest-Assured.git
 
-#### Install dependencies
+#### Install dependencies(On Windows)
 
 1. The Java JDK version 22 is required and systematically setup with IntelliJ.
+2. Add IDE and all files in the htdocs folder to the Defender exclusions list.
 
 
