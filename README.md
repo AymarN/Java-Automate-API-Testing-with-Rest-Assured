@@ -1,5 +1,5 @@
 <h5># How I test APIs with Rest Assured</h5>
-<h5>From my submission on the LinkedIn Course.</h5>
+<h5>From my submission on [the LinkedIn Course](https://www.linkedin.com/learning/java-automated-api-testing-with-rest-assured-26288114).</h5>
 <h5>[Handout]</h5>
 <h5>|Java: Automated API Testing with Rest-Assured|</h5>
 
