@@ -53,7 +53,7 @@ git clone https://github.com/AymarN/Java-Automate-API-Testing-with-Rest-Assured.
 
 #### In Closing
 <h5>Postman or Rest-Assured ?</h5>
-I use postman for different types of Application Programming Interfacesuch as Rest, SOAP, GraphQL or WebSocket. 
+I use postman for different types of Application Programming Interface such as Rest, SOAP, GraphQL or WebSocket. 
 It is a fast way to test API. I like to use Postman like a draft before using Rest-Assured. On Rest APIs, we 
 hope to get the same outcome with the Rest-Assured library and the API client Postman.
 My favorite for database tests is Rest-Assured.
