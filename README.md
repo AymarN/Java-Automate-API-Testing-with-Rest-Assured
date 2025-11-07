@@ -49,4 +49,12 @@ git clone https://github.com/AymarN/Java-Automate-API-Testing-with-Rest-Assured.
 1. The Java JDK version 22 is required and systematically setup with IntelliJ.
 2. Add IDE and all files in the htdocs folder to the Defender exclusions list.
 
+#### Install dependencies(On Mac)
+
+#### In Closing
+Postman or Rest-Assured ?
+I use postman for different types of Application Programming Interfacesuch as Rest, SOAP, GraphQL or WebSocket. 
+It is a fast way to test API. I like to use Postman like a draft before using Rest-Assured. On Rest APIs, we 
+hope to get the same outcome with the Rest-Assured library and the API client Postman.
+My favorite for database tests is Rest-Assured.
 
